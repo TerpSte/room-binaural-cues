@@ -1,6 +1,6 @@
 # MATLAB related files
-.matpos
-.matroom
+*.matpos
+*.matroom
 
 # External dependencies
 /amtoolbox
