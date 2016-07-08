@@ -1,0 +1,8 @@
+# MATLAB related files
+.matpos
+.matroom
+
+# External dependencies
+/amtoolbox
+/HRTF
+
